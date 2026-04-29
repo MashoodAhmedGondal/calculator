@@ -33,4 +33,4 @@ def div(a, b):
 
     Raises ZeroDivisionError if b is 0.
     """
-    pass
+    return a / b
